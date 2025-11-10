@@ -18,7 +18,7 @@ from datetime import datetime, timezone
 
 BALANCE = 150000
 MAX_LEVERAGE = 0.99
-FILE_NAME = 'df_final.csv'
+FILE_NAME = 'user_data/data/df_final.csv'
 
 
 
